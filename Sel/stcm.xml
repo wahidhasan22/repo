@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="TestAB">
+		<classes>
+
+			<class name="stcml.A" />
+			<class name="stcml.B" />
+		</classes>
+	</test>
+	<test name="TestCD">
+		<classes>
+
+			<class name="stcml.C" />
+			<class name="stcml.D" />
+		</classes>
+	</test>
+</suite> 
